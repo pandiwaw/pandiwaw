@@ -1,16 +1,62 @@
-## Hi there 👋
+# Al — Software Engineer
 
-<!--
-**pandiwaw/pandiwaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer with 8+ years of experience building **end-to-end platforms** across e-commerce, OTA, and real-time systems. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Core Domains
+- Distributed Backend & Platform Architecture  
+- Mobile & Web Full-Stack Systems  
+- AI & Automation (Agents, LLM Integrations)
+
+---
+
+## Technical Stack
+
+**Languages**  
+Kotlin, Java, Go, TypeScript, JavaScript  
+
+**Backend & Data**  
+Spring Boot, PostgreSQL, Redis, Kafka, REST, gRPC  
+
+**Frontend & Mobile**  
+React, React Native  
+
+**Infrastructure**  
+Docker, CI/CD, AWS / GCP, Terraform (basic)  
+
+**Architecture**  
+DDD, Clean Architecture, Microservices, Event-Driven Systems
+
+---
+
+## Engineering Philosophy
+
+- Systems outlive features  
+- Constraints reveal architecture  
+- Abstractions must earn their existence  
+- Automation is a force multiplier  
+- Seniority is pattern recognition under pressure  
+
+---
+
+## GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pandiwaw&show_icons=true&hide_title=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pandiwaw&layout=compact)
+
+---
+
+## Learning & Exploration
+
+- AI Agents & LLM System Design 
+- Financial Systems & Market Microstructure  
+
+---
+
+## Contact
+
+- Email: al.vandiar@email.com  
+
+---
