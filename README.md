@@ -30,16 +30,6 @@ Docker, CI/CD, AWS / GCP, Terraform (basic)
 ![React](https://img.shields.io/badge/React-black?logo=react)
 ---
 
-## Engineering Philosophy
-
-- Systems outlive features  
-- Constraints reveal architecture  
-- Abstractions must earn their existence  
-- Automation is a force multiplier  
-- Seniority is pattern recognition under pressure  
-
----
-
 ## GitHub Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pandiwaw&show_icons=true&hide_title=true&count_private=true)
