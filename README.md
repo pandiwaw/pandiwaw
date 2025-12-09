@@ -25,9 +25,9 @@ React, React Native
 **Infrastructure**  
 Docker, CI/CD, AWS / GCP, Terraform (basic)  
 
-**Architecture**  
-DDD, Clean Architecture, Microservices, Event-Driven Systems
-
+![Kotlin](https://img.shields.io/badge/Kotlin-black?logo=kotlin)
+![Go](https://img.shields.io/badge/Go-black?logo=go)
+![React](https://img.shields.io/badge/React-black?logo=react)
 ---
 
 ## Engineering Philosophy
