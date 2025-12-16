@@ -48,5 +48,5 @@ Docker, CI/CD, AWS / GCP, Terraform (basic)
 ## Contact
 
 - Email: al.vandiar@email.com  
-
+- Linkedin: [izzati-alvandiar](https://www.linkedin.com/in/izzati-alvandiar/)
 ---
