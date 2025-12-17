@@ -14,7 +14,7 @@ Software engineer with 8+ years of experience building **end-to-end platforms** 
 ## Technical Stack
 
 **Languages**  
-Kotlin, Java, Go, TypeScript, JavaScript  
+Kotlin, Java, Go, TypeScript, JavaScript, C++ (competitive programming)  
 
 **Backend & Data**  
 Spring Boot, PostgreSQL, Redis, Kafka, REST, gRPC  
