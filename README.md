@@ -49,7 +49,7 @@ Docker, CI/CD, AWS / GCP, Terraform (basic)
 
 <p align="left">
  <!-- gmail -->
- <a href="mailto:al.vandiar@email.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="al.vandiar@email.com" height="30" width="40" /></a>
+ <a href="mailto:al.vandiar@email.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="al.vandiar@email.com" height="30" width="40" /></a>
  <!-- linkedin -->
  <a href="https://www.linkedin.com/in/izzati-alvandiar/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="izzati-alvandiar" height="30" width="40" /></a>
 </p>
