@@ -30,14 +30,6 @@ Docker, CI/CD, AWS / GCP, Terraform (basic)
 ![React](https://img.shields.io/badge/React-black?logo=react)
 ---
 
-## GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pandiwaw&show_icons=true&hide_title=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pandiwaw&layout=compact)
-
----
-
 ## Learning & Exploration
 
 - AI Agents & LLM System Design 
