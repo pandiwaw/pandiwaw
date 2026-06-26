@@ -1,52 +1,13 @@
-# Al — Software Engineer
+# Izzati Alvandiar (Al)
 
-Software engineer with 8+ years of experience building **end-to-end platforms** across e-commerce, OTA, and real-time systems. 
+Software engineer, 8+ years. I take products from empty repo to production —
+distributed backends, full-stack web & mobile, and AI-driven automation.
+E-commerce, OTA, and real-time systems.
 
----
+### → [profile-teal-tau.vercel.app](https://profile-teal-tau.vercel.app)
 
-## Core Domains
-- Distributed Backend & Platform Architecture  
-- Mobile & Web Full-Stack Systems  
-- AI & Automation (Agents, LLM Integrations)
+`Kotlin` · `Go` · `TypeScript` · `Spring Boot` · `React Native` · `Kafka` · `AWS/GCP` · `LLM agents`
 
----
+Currently building agentic developer tooling and a recipe companion app — see pinned.
 
-## Technical Stack
-
-**Languages**  
-Kotlin, Java, Go, TypeScript, JavaScript, C++ (competitive programming)  
-
-**Backend & Data**  
-Spring Boot, PostgreSQL, Redis, Kafka, REST, gRPC  
-
-**Frontend & Mobile**  
-React, React Native  
-
-**Infrastructure**  
-Docker, CI/CD, AWS / GCP, Terraform (basic)  
-
-![Kotlin](https://img.shields.io/badge/Kotlin-black?logo=kotlin)
-![Go](https://img.shields.io/badge/Go-black?logo=go)
-![React](https://img.shields.io/badge/React-black?logo=react)
----
-
-## Learning & Exploration
-
-- AI Agents & LLM System Design 
-- Financial Systems & Market Microstructure  
-
----
-
-## Contact
-
-<p align="left">
- <!-- gmail -->
- <a href="mailto:al.vandiar@gmail.com" aria-label="Email al">
-  <img src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" alt="Gmail" width="28"/>
-</a>
-
- <!-- linkedin -->
- <a href="https://www.linkedin.com/in/izzati-alvandiar/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="izzati-alvandiar" height="30" width="40" /></a>
-</p>
-
----
+[Email](mailto:al.vandiar@gmail.com) · [LinkedIn](https://www.linkedin.com/in/izzati-alvandiar/)
