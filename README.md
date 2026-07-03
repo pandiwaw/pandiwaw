@@ -4,7 +4,7 @@ Software engineer, 8+ years. I take products from empty repo to production —
 distributed backends, full-stack web & mobile, and AI-driven automation.
 E-commerce, OTA, and real-time systems.
 
-### → [profile-teal-tau.vercel.app](https://profile-teal-tau.vercel.app)
+### → [pandiwaw.dev](https://pandiwaw.dev)
 
 `Kotlin` · `Go` · `TypeScript` · `Spring Boot` · `React Native` · `Kafka` · `AWS/GCP` · `LLM agents`
 
