@@ -1,9 +1,5 @@
 # Izzati Alvandiar (Al)
 
-Software engineer, 8+ years. I take products from empty repo to production —
-distributed backends, full-stack web & mobile, and AI-driven automation.
-E-commerce, OTA, and real-time systems.
-
 ### → [pandiwaw.dev](https://pandiwaw.dev)
 
 `Kotlin` · `Go` · `TypeScript` · `Spring Boot` · `React Native` · `Kafka` · `AWS/GCP` · `LLM agents`
